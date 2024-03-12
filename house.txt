@@ -6,7 +6,3 @@ This is changes to this file from the made on github website and for question 5
 
 This is changes to this file from the test branch made on github website 
 
-sjsjamaksmalmslkanmslk
-This is a change to file from main branch to cause conflict in the merger
-sss
-s
