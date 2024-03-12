@@ -2,13 +2,7 @@ Hello, this is an example for question 4 - INITIAL STATE
 
 This is changes to this file from thirdBranch in git
 
+This is changes to this file from the made on github website and for question 5
+
 This is changes to this file from the test branch made on github website 
 
-For question 5, i am making a conflict here from the conflictbranch i made
-
-
-
-sssssssssssssssssss]s]#
-sssssssssss
-sss
-s
